@@ -6,7 +6,7 @@ Tous les fichiers commençant par "spec" correspondent aux spécifications des d
 la spécification de EWD687a sous les yeux lors de la lecture du paragraphe 4.1.
 
 Pour l'énoncé du problème Dijkstra-Scholten, il existe la version originale incomplète, jointe au format pdf. Et une version complète sur laquelle je me suis 
-appuyé: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD687a.html  
+appuyée: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD687a.html  
 Je vous joint également une vidéo qui peut aider à la réprésentation de l'algorithme. (animation EWD687a.mp4)
 
 En complément voilà les pages git des exemples TLA, sur lesquels je me suis appuyé pour progressé. Ainsi que les community modules, dans lesquels devraient 
